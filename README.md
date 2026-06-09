@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @sureshdasari799
-- 👀 I’m interested in AWS< DEVOPS, SRE ....
-- 🌱 I’m currently learning Terraform
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me sureshdasari799@gmail.com
-- 😄 Pronouns: suresh
-- ⚡ Fun fact: 
+# Hi, I'm Suresh Dasari 👋
 
-<!---
-sureshdasari799/sureshdasari799 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Machine Learning & Generative AI Engineer with 5+ years of experience building LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, and scalable cloud-native AI solutions.
+
+## Areas of Interest
+
+* Generative AI & Large Language Models
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI Systems
+* LangChain & LangGraph
+* MLOps & Cloud AI Platforms
+* End-to-End Machine Learning Solutions
+
+## Featured Project
+
+### LangChain-Groq News RAG
+
+A News Research Assistant built using LangChain, Groq, Hugging Face Embeddings, FAISS, and Streamlit that enables users to analyze news articles and ask context-aware questions using Retrieval-Augmented Generation.
+
+## Tech Stack
+
+Python • LangChain • LangGraph • Groq • Hugging Face • FAISS • AWS • Docker • Kubernetes • MLflow
+
+Connect
+
+📧 Email Me: ramsureshdasari809@gmail.com
+
+💼 LinkedIn Profile: linkedin.com/in/ram-dasari-a39956174/
